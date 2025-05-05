@@ -1,6 +1,6 @@
 📤 Android Auto Uploader to S3-Compatible Storage (Cubbit, etc.) via rclone (Termux-based)
 
-This script scans your Android device's Camera folder and automatically uploads all media files (photos, videos, etc.) to a remote S3-compatible storage, such as Cubbit, organized by year/month.
+This script scans your Android device's Camera folder and automatically uploads all media files (photos, videos, etc.) to a remote S3-compatible storage, such as Cubbit, organized by year/month
 It is designed to run on Termux using rclone.
 🔧 Features
 
