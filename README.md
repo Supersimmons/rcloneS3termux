@@ -44,3 +44,9 @@ It is designed to run on Termux using rclone.
 * Access to your /DCIM/Camera folder on Android
 * Storage permissions granted in Termux:
   <blockquote>Run: termux-setup-storage</blockquote>
+  
+🤝 Contributing
+Feel free to submit issues or pull requests.
+
+📄 License
+This project is licensed under the MIT License.
