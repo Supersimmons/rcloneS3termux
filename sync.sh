@@ -3,7 +3,7 @@
 # ✅ Enable/disable dry-run mode (1 = simulate, 0 = actually upload)
 DRYRUN=0
 
-# 📁 Source folder containing photos/videos to scan
+# 📁 Source folder containing photos/videos to scan 
 src="/data/data/com.termux/files/home/storage/dcim/Camera"
 
 # 🗂 Base destination folder on Cubbit or Any S3-compatible service
